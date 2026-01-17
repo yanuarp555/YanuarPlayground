@@ -1,14 +1,18 @@
-# 👋 Halo, saya Yanuar!
+# 👋 Hi, I'm Yanuar!
 
-### 🛡️ Cybersecurity Journey
-Saya sedang aktif belajar di TryHackMe untuk mengasah skill penetrasi testing dan keamanan siber.
-
-### 📊 Statistik TryHackMe
 <p align="left">
-  <a href="https://tryhackme.com/p/yanuarp555">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/yanuarp555.png" alt="Your Image Badge" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Learning-TryHackMe-blue?style=for-the-badge&logo=tryhackme" />
 </p>
 
+### 🛡️ Cybersecurity Journey
+I am currently sharpening my skills in **Penetration Testing** and **Network Security** through hands-on challenges on **TryHackMe**.
+
 ---
-*Progres di atas akan terupdate secara otomatis sesuai dengan aktivitas saya di TryHackMe.*
+
+### 📊 TryHackMe Stats
+<a href="https://tryhackme.com/p/yanuarp555">
+  <img src="https://tryhackme-badges.adit313.workers.dev/api/v1/badge/yanuarp555" alt="TryHackMe Badge" />
+</a>
+
+---
