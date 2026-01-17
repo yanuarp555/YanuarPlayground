@@ -6,13 +6,13 @@
 </p>
 
 ### 🛡️ Cybersecurity Journey
-I am currently sharpening my skills in **Penetration Testing** and **Network Security** through hands-on challenges on **TryHackMe**.
+I am currently sharpening my skills in **Cyber Security** through hands-on challenges on **TryHackMe**.
 
 ---
 
 ### 📊 TryHackMe Stats
 <a href="https://tryhackme.com/p/yanuarp555">
-  <img src="https://tryhackme-badges.adit313.workers.dev/api/v1/badge/yanuarp555" alt="TryHackMe Badge" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6619794" style='border:none;'></iframe>
 </a>
 
 ---
