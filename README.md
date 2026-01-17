@@ -32,6 +32,3 @@ Jika kamu menyertakan workflow yang disertakan di repo ini, badge akan diunduh k
 
 ---
 
-Notes:
-- Jika badge tidak muncul: buka dulu https://tryhackme-badges.s3.amazonaws.com/yanuarp555.png di browser. Jika 404 → cek username TryHackMe atau set profil TryHackMe jadi public.
-- Jika gambar muncul di browser tapi tidak di README: coba gunakan Option B (simpan file lokal) atau pakai workflow yang saya sertakan untuk mengunduh badge ke repo dan menghindari hotlinking/caching.
